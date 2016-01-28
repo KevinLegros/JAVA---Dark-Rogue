@@ -1,6 +1,9 @@
 # Dark Rogue - JAVA
 A JAVA Rogue-Lite game where you survive in a dungeon.
+
 Future updates will support full classes with attributes and skills.
+
+Rendering with LWJGL
 
 
 Attack animation example :
